@@ -116,3 +116,6 @@ BaoAn_T_value2 <- as.numeric(BaoAn_T_value)
 
 #add a line
 plot(x, y)
+
+#add a new line
+plot(a, b)
