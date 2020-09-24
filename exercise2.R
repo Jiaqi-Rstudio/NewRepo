@@ -114,4 +114,5 @@ BaoAn_T_flag <- substr("BaoAn_T", 7,7)
 BaoAn_T_value2 <- as.numeric(BaoAn_T_value)
 
 
-
+#add a line
+plot(x, y)
